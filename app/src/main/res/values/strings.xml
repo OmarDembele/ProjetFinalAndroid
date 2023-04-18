@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjetFinalAndroid</string>
+    <string name="welcome_back">Bienvenue</string>
+    <string name="name">Omar Dembele</string>
+    <string name="email">omardembele820@gmail.com</string>
+    <string name="empty">Vide</string>
+    <string name="login">Login</string>
+    <string name="logout">Deconnection</string>
+    <string name="password">Password</string>
+    <string name="dont_have_account">Register</string>
+    dont_have_account
+</resources>
